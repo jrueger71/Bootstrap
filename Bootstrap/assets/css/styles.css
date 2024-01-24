@@ -1,0 +1,12 @@
+.mi-contenedor {
+    /* Layout Properties */
+    position: absolute;
+    top: 1207px;
+    left: 0px;
+    width: 1280px;
+    height: 170px;
+
+    /* UI Properties */
+    background: #17A2B8;
+    opacity: 1;
+}
